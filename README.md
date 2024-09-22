@@ -51,4 +51,36 @@ Flowrise is a modern web application designed to help users optimize their produ
 ### Installation
 
 1. Clone the repository git clone [https://github.com/eberegreat/flowrise.git](https://github.com/eberegreat/flowrise.git)
-2. 
+
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+
+## Usage
+
+After starting the development server, you can navigate through the different pages of the application:
+
+- Home: Displays an overview of Flowrise features.
+- About: Provides information about the Flowrise concept and team.
+- Features: Detailed list of Flowrise features and benefits.
+- Pricing: Shows different subscription tiers.
+- Contact: A form for users to get in touch.
+
+## Project Structure
+flowrise/
+├── app/
+│   ├── components/
+│   ├── about/
+│   ├── features/
+│   ├── pricing/
+│   ├── privacy/
+│   ├── terms/
+│   ├── contact/
+│   ├── layout.tsx
+│   └── page.tsx
+├── public/
+├── styles/
+├── .gitignore
+├── next.config.js
+├── package.json
+├── README.md
+├── tailwind.config.js
+└── tsconfig.json
