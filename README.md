@@ -50,4 +50,5 @@ Flowrise is a modern web application designed to help users optimize their produ
 
 ### Installation
 
-1. Clone the repository
+1. Clone the repository git clone [https://github.com/eberegreat/flowrise.git](https://github.com/eberegreat/flowrise.git)
+2. 
